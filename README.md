@@ -37,7 +37,7 @@ Every system—from the combat loop to the inventory UI—has been coded from th
 
 ### 🗺️ Exploration
 - Free third‑person movement with mouse‑controlled camera.
-- Interactable objects (NPCs, merchants, puzzles, loot chests) via a generic `IInteractable` interface.
+- Interactable objects (NPCs, merchants, loot chests) via a generic `IInteractable` interface.
 - World pickups for instant health, materials, gold, and consumables.
 
 ### ⚔️ Turn‑Based Combat
@@ -74,7 +74,7 @@ Project Eva is built with **Unity (URP)** and a fully modular C# codebase.
 |---------------|-------------|
 | **Managers**  | `GameManager` (state machine), `WorldManager` (scaling), `CombatManager` (turn loop), `UIManager` (panel toggles) |
 | **Player**    | `PlayerController` (movement + camera), `PlayerStats` (HP, XP, stats), `Inventory`, `WeaponHandler` |
-| **Combat**    | `EnemyUnit`, `EncounterTrigger`, `BattleArenaSetup` (optional), `CameraShake`, `CombatUI`, `CombatSummaryUI`, `ItemSelectUI` |
+| **Combat**    | `EnemyUnit`, `EncounterTrigger`, `BattleArenaSetup`, `CameraShake`, `CombatUI`, `CombatSummaryUI`, `ItemSelectUI` |
 | **Data**      | All ScriptableObjects live in a single `GameData.cs`: materials, weapons, consumables, skills, enemies, encounters |
 | **Interaction** | `IInteractable`, `NPC`, `Merchant`, `LootBox`, `WorldPickup`, `ShopUI` |
 | **UI**        | `CharacterStatsUI`, `WeaponUpgradeUI`, `InventoryUI`, `WorldLevelUI` |
