@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 971fe09319d2837459047a1b072df34b
+timeCreated: 1472651436
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/LightmapParameters/StructuresHigh.giparams
+  uploadId: 506754

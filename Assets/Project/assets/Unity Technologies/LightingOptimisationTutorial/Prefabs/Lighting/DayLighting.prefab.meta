@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10d0ed25dd760f24cb43f4cdc3d9c788
+timeCreated: 1474557183
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Prefabs/Lighting/DayLighting.prefab
+  uploadId: 506754

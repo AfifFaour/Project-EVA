@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 31407b739961f8845bada0052033f0ca
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Shaders/WavingGrass.shader
+  uploadId: 506754

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94b55d4ba831c7b429cafd98f6eb62a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Scenes/Article/LightingTutorialOptimal/LightingData.asset
+  uploadId: 506754

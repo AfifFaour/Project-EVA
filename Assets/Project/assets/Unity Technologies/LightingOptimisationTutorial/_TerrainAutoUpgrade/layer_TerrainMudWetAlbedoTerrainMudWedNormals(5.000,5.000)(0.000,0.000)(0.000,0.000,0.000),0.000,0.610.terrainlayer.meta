@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11200be8b541941d1a8d2866f6cf2c5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/_TerrainAutoUpgrade/layer_TerrainMudWetAlbedoTerrainMudWedNormals(5.000,5.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.610.terrainlayer
+  uploadId: 506754

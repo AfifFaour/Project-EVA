@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e19d98c605503b54987813121dd7350c
+timeCreated: 1470832222
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Prefabs/Props/TorchPole.prefab
+  uploadId: 506754

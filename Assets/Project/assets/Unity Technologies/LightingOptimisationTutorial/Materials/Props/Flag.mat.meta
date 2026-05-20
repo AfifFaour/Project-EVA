@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0b1fe8bfff624342a3eb73a1c008217
+timeCreated: 1432113073
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Props/Flag.mat
+  uploadId: 506754

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2a354311c10944418ea7ee88a237e20
+timeCreated: 1472119356
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Skyboxes/SkyBoxNight.mat
+  uploadId: 506754

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81738e1e09b451a49a8dc359d4aaebdc
+timeCreated: 1431951610
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Props/CartWheels.mat
+  uploadId: 506754

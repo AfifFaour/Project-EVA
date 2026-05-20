@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab7465751ba359046b1b395d48a3fc8b
+timeCreated: 1434629337
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Prefabs/Environment/HouseFoundation.prefab
+  uploadId: 506754

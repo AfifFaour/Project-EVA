@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90ffe1bbfbd014a418a10ddfe0a35a2d
+timeCreated: 1472651436
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/LightmapParameters/RocksMedium.giparams
+  uploadId: 506754

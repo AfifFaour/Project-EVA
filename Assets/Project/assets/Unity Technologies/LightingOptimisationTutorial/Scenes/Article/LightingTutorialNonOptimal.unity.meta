@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 165cf13ca749b426abc5e5f369892f1c
+timeCreated: 1470744549
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Scenes/Article/LightingTutorialNonOptimal.unity
+  uploadId: 506754

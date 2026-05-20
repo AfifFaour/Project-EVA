@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f4c9c5702c2f8164ebe8f4147052669a
+timeCreated: 1472642584
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Standard Assets/Effects/StylisticFog/Editor/StylisticFogEditor.cs
+  uploadId: 506754

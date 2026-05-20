@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0592463c845fe8439c0852d31af7e0a
+timeCreated: 1472119356
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Skyboxes/SkyBoxDay.mat
+  uploadId: 506754

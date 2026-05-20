@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93e8476f863374f4faafa1d57767df07
+timeCreated: 1470910651
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Props/BlacksmithMetals.mat
+  uploadId: 506754

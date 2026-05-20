@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e68c0a2a39a0a3548b7688dae46822a9
+timeCreated: 1472651436
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/LightmapParameters/TerrainVeryLow.giparams
+  uploadId: 506754

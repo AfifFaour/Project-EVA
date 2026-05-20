@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c405bf8550e5fb468cbdfdeab9d2784
+timeCreated: 1470907665
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Environment/StrawRoofCutout.mat
+  uploadId: 506754

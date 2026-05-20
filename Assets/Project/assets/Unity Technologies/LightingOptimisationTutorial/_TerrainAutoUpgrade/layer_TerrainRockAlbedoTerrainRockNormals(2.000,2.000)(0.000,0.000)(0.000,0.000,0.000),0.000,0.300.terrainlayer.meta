@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db4ef2fdc49fd42cc849a25c4520edf7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/_TerrainAutoUpgrade/layer_TerrainRockAlbedoTerrainRockNormals(2.000,2.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.300.terrainlayer
+  uploadId: 506754

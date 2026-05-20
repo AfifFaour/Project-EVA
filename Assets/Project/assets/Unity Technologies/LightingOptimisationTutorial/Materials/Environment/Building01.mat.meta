@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d45ceb2c47644e0f9ed999ead731689
+timeCreated: 1432024113
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Environment/Building01.mat
+  uploadId: 506754

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d66197e7965a35428b4e4ba0e49b049
+timeCreated: 1474553071
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Prefabs/Cameras/DayCamera.prefab
+  uploadId: 506754

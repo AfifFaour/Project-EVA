@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04dd7a779e6296042b5c729511b02a8a
+timeCreated: 1461708870
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Environment/Rock04Grey.mat
+  uploadId: 506754

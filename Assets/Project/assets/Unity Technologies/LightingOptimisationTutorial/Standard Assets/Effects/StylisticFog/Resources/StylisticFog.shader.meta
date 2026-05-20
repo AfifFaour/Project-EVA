@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a69ee6bfe1016a84d9b64f5dc34993f6
+timeCreated: 1472642592
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Standard Assets/Effects/StylisticFog/Resources/StylisticFog.shader
+  uploadId: 506754

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59bfd1bd3d848594b825c0ce8c65b298
+timeCreated: 1431951606
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Environment/StepsStone.mat
+  uploadId: 506754

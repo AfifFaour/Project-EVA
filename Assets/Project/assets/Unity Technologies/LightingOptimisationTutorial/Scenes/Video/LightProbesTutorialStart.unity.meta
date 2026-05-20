@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 804c3136505c04be29e660f0546b1861
+timeCreated: 1470744549
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Scenes/Video/LightProbesTutorialStart.unity
+  uploadId: 506754

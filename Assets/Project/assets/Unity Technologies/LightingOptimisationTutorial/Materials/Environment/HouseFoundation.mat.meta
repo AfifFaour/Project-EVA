@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4c5cd90d54d0fb4d972695ade689829
+timeCreated: 1432050292
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73563
+  packageName: Lighting Optimisation Tutorial
+  packageVersion: 1.5.0
+  assetPath: Assets/Unity Technologies/LightingOptimisationTutorial/Materials/Environment/HouseFoundation.mat
+  uploadId: 506754
